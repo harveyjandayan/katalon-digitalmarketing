@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_News  Events</name>
+   <tag></tag>
+   <elementGuidId>3a584004-c788-4705-9c14-b8f630374efe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='cm-header']/nav/div/div/ul/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c8ca7761-40d0-4da3-9249-3773aec26503</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.emerson.com/en-us/news?_gl=1*nfm18l*_ga*MTUwOTg1ODIyMS4xNjUwODgxMTQ2*_ga_NW3KVPE6D0*MTY1MDg4MTE0NS4xLjEuMTY1MDg4MTE1Ny4w</value>
+      <webElementGuid>ad206507-4087-41ca-bd9e-354e2674c153</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>c05f179a-442f-4981-803d-89965c99ddcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>News &amp; Events</value>
+      <webElementGuid>be2d753f-8f33-44fe-bc37-63254cdf4ea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cm-header&quot;)/nav[@class=&quot;utility-nav&quot;]/div[@class=&quot;padded-container&quot;]/div[@class=&quot;hidden-xs hidden-sm&quot;]/ul[@class=&quot;horizontal-list&quot;]/li[6]/a[1]</value>
+      <webElementGuid>c2df5b67-ea84-462c-900d-cce704b9610f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='cm-header']/nav/div/div/ul/li[6]/a</value>
+      <webElementGuid>f1f4a2a3-2975-43cc-b683-fa544f4bf751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'News &amp; Events')]</value>
+      <webElementGuid>1e38f610-eaaf-483f-aaf4-a672ca1fc9cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::a[1]</value>
+      <webElementGuid>daeb8e2a-e39e-4447-9dff-cd4f447151e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Careers'])[1]/following::a[2]</value>
+      <webElementGuid>ce41f98a-1fe3-4c62-a5da-f9dc5d789e6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/preceding::a[1]</value>
+      <webElementGuid>59fe4734-c22d-4dfe-8928-b5e7d54d6d13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle navigation'])[1]/preceding::a[3]</value>
+      <webElementGuid>094f83dd-6c41-4314-9422-98f037f487ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='News &amp; Events']/parent::*</value>
+      <webElementGuid>fafff7d8-4172-44c5-b604-0632264f62ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.emerson.com/en-us/news?_gl=1*nfm18l*_ga*MTUwOTg1ODIyMS4xNjUwODgxMTQ2*_ga_NW3KVPE6D0*MTY1MDg4MTE0NS4xLjEuMTY1MDg4MTE1Ny4w')]</value>
+      <webElementGuid>ef294610-0466-4dd5-9f53-7a02f534f665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>643cbe6f-d4c1-43fe-8c05-aade05cd1f05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.emerson.com/en-us/news?_gl=1*nfm18l*_ga*MTUwOTg1ODIyMS4xNjUwODgxMTQ2*_ga_NW3KVPE6D0*MTY1MDg4MTE0NS4xLjEuMTY1MDg4MTE1Ny4w' and (text() = 'News &amp; Events' or . = 'News &amp; Events')]</value>
+      <webElementGuid>30341d69-314e-48d4-8505-8d25657ae6e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
