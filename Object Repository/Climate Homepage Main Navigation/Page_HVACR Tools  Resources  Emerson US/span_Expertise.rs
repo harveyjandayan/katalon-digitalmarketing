@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Expertise</name>
+   <tag></tag>
+   <elementGuidId>489c1cf1-7871-44ce-a352-65a9f221a973</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.level-1-item-container.desktop-active > a.level-1-item > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='main-nav']/li[2]/div[5]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2dd4f01a-319a-4635-9122-7bba7b468674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Expertise</value>
+      <webElementGuid>16310bfa-fb62-49ce-b553-0c06b8ec155d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-nav&quot;)/li[2]/div[@class=&quot;level-1-item-container desktop-active&quot;]/a[@class=&quot;level-1-item&quot;]/span[1]</value>
+      <webElementGuid>10e06103-3f5d-4ff9-83c7-03fc58c550b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='main-nav']/li[2]/div[5]/a/span</value>
+      <webElementGuid>b052274d-2cd4-49eb-ad93-f1431dbfd948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Selection Software'])[2]/following::span[1]</value>
+      <webElementGuid>95f711dd-c0f9-4ab5-a3f1-02e81ea1dfd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='White-Rodgers Cross Reference/Product Information'])[2]/following::span[1]</value>
+      <webElementGuid>b9747b85-fc94-4b2e-b9ae-2a8634522f0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expertise'])[4]/preceding::span[1]</value>
+      <webElementGuid>9c9b311a-5e31-430f-acd6-359ae43adfd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expertise'])[5]/preceding::span[2]</value>
+      <webElementGuid>951d764a-4650-4525-aac2-88eccdd8fd76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[2]/div[5]/a/span</value>
+      <webElementGuid>041e83e6-5244-4ed2-8503-f40d014c8723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Expertise' or . = 'Expertise')]</value>
+      <webElementGuid>85790ab7-b63c-4378-b10b-34f574087a84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

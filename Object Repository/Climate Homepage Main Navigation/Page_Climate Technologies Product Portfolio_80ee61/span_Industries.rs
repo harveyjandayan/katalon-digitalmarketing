@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Industries</name>
+   <tag></tag>
+   <elementGuidId>97acb5df-0da3-4a9f-a193-1f8dcd377b49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.level-1-item-container.desktop-active > a.level-1-item > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='main-nav']/li[2]/div[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>85e09f61-1aff-4aa3-97bd-67bca54b27dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Industries</value>
+      <webElementGuid>c0ed57df-c10d-4237-b1fa-95aa9084cad8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-nav&quot;)/li[2]/div[@class=&quot;level-1-item-container desktop-active&quot;]/a[@class=&quot;level-1-item&quot;]/span[1]</value>
+      <webElementGuid>35c7643d-4b06-4ed2-881f-dffdb6f3a780</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='main-nav']/li[2]/div[2]/a/span</value>
+      <webElementGuid>c9997c6a-3f57-4ee5-ae7c-dc314fc03a44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='White-Rodgers'])[6]/following::span[1]</value>
+      <webElementGuid>56534acc-0b6f-4734-8dad-64945f722fb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verdant'])[2]/following::span[2]</value>
+      <webElementGuid>7c4d83f6-13a3-4f0a-86ba-ac04189b18b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Industries'])[4]/preceding::span[1]</value>
+      <webElementGuid>fd80d129-0387-4d2d-b5be-4b2165a9094f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Industries'])[5]/preceding::span[2]</value>
+      <webElementGuid>747f0d7e-b229-48b1-ab98-a78829bc6a7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[2]/div[2]/a/span</value>
+      <webElementGuid>df04e24c-9f7a-4965-a5d4-305ddf4870fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Industries' or . = 'Industries')]</value>
+      <webElementGuid>0c34441c-fafa-4e9a-804b-90b55bfe8f36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
