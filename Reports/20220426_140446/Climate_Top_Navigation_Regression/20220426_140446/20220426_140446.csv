@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Climate_Top_Navigation_Regression,Chrome 100.0.4896.127,,,2022-04-26 14:05:20,2022-04-26 14:13:29,8m - 8.708s,FAILED
+,,,,,,,
+Test Cases/04252022_Climate Blackbar Navigation,Chrome 100.0.4896.127,,,2022-04-26 14:05:21,2022-04-26 14:07:28,2m - 6.868s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-26 14:05:21,2022-04-26 14:05:26,4.210s,PASSED
+"navigateToUrl(""https://climate.emerson.com/en-us"")",Chrome 100.0.4896.127,,,2022-04-26 14:05:26,2022-04-26 14:05:57,31.611s,PASSED
+"click(findTestObject(""Object Repository/04252022_Climate_Blackbar_Navigation/Page_HVACR Technology and Infrastructure So_f4d782/button_Accept All Cookies""))",Chrome 100.0.4896.127,,,2022-04-26 14:05:57,2022-04-26 14:06:06,8.428s,PASSED
+"click(findTestObject(""Object Repository/04252022_Climate_Blackbar_Navigation/Page_HVACR Technology and Infrastructure So_f4d782/a_About Us""))",Chrome 100.0.4896.127,,,2022-04-26 14:06:06,2022-04-26 14:06:09,3.717s,PASSED
+"click(findTestObject(""Object Repository/04252022_Climate_Blackbar_Navigation/Page_HVACR Technology and Infrastructure So_f4d782/a_Investors""))",Chrome 100.0.4896.127,,,2022-04-26 14:06:09,2022-04-26 14:06:11,2.174s,PASSED
+"click(findTestObject(""Object Repository/04252022_Climate_Blackbar_Navigation/Page_HVACR Technology and Infrastructure So_f4d782/a_Careers""))",Chrome 100.0.4896.127,,,2022-04-26 14:06:11,2022-04-26 14:06:14,2.009s,PASSED
+"click(findTestObject(""Object Repository/04252022_Climate_Blackbar_Navigation/Page_HVACR Technology and Infrastructure So_f4d782/a_Contact Us""))",Chrome 100.0.4896.127,,,2022-04-26 14:06:14,2022-04-26 14:06:25,11.458s,PASSED
+"click(findTestObject(""Object Repository/04252022_Climate_Blackbar_Navigation/Page_HVACR Technology and Infrastructure So_f4d782/a_News  Events""))",Chrome 100.0.4896.127,,,2022-04-26 14:06:25,2022-04-26 14:06:29,3.594s,PASSED
+"click(findTestObject(""Object Repository/04252022_Climate_Blackbar_Navigation/Page_HVACR Technology and Infrastructure So_f4d782/a_Sign In""))",Chrome 100.0.4896.127,,,2022-04-26 14:06:29,2022-04-26 14:07:26,57.395s,PASSED
+"click(findTestObject(""Object Repository/04252022_Climate_Blackbar_Navigation/Page_HVACR Technology and Infrastructure So_f4d782/a_Emerson.com""))",Chrome 100.0.4896.127,,,2022-04-26 14:07:26,2022-04-26 14:07:27,0.713s,PASSED
+closeBrowser(),Chrome 100.0.4896.127,,,2022-04-26 14:07:27,2022-04-26 14:07:28,0.935s,PASSED
+,,,,,,,
+Test Cases/04252022_Climate Main Navigation,Chrome 100.0.4896.127,,,2022-04-26 14:13:09,2022-04-26 14:13:29,20.180s,FAILED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-26 14:13:09,2022-04-26 14:13:11,2.532s,PASSED
+"navigateToUrl(""https://climate.emerson.com/en-us"")",Chrome 100.0.4896.127,,,2022-04-26 14:13:11,2022-04-26 14:13:26,14.160s,PASSED
+"click(findTestObject(""Object Repository/04252022_Climate Homepage Main Navigation/Page_HVACR Technology and Infrastructure So_f4d782/button_Accept All Cookies""))",Chrome 100.0.4896.127,,,2022-04-26 14:13:26,2022-04-26 14:13:27,1.615s,PASSED
+"click(findTestObject(""Object Repository/04252022_Climate Homepage Main Navigation/Page_HVACR Technology and Infrastructure So_f4d782/span_Products""))",Chrome 100.0.4896.127,,,2022-04-26 14:13:27,2022-04-26 14:13:29,1.828s,FAILED

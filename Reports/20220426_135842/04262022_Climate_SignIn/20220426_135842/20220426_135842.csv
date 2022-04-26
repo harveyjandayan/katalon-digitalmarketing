@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+04262022_Climate_SignIn,Chrome 100.0.4896.127,Navigate to Signin,,2022-04-26 13:59:00,2022-04-26 13:59:59,59.233s,PASSED
+,,,,,,,
+Test Cases/Test_Recorder,Chrome 100.0.4896.127,,,2022-04-26 13:59:01,2022-04-26 13:59:59,58.827s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-26 13:59:01,2022-04-26 13:59:05,4.187s,PASSED
+"navigateToUrl(""https://climate.emerson.com/en-us"")",Chrome 100.0.4896.127,,,2022-04-26 13:59:05,2022-04-26 13:59:17,11.896s,PASSED
+"click(findTestObject(""Object Repository/Test_Signin/Page_HVACR Technology and Infrastructure So_f4d782/button_Accept All Cookies""))",Chrome 100.0.4896.127,,,2022-04-26 13:59:17,2022-04-26 13:59:19,1.973s,PASSED
+"click(findTestObject(""Object Repository/Test_Signin/Page_HVACR Technology and Infrastructure So_f4d782/a_Sign In""))",Chrome 100.0.4896.127,,,2022-04-26 13:59:19,2022-04-26 13:59:38,18.836s,PASSED
+"setText(findTestObject(""Object Repository/Test_Signin/Page_Sign In/input_Username_logonId""), ""harvey.jandayan@emerson.com"")",Chrome 100.0.4896.127,,,2022-04-26 13:59:38,2022-04-26 13:59:40,1.757s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test_Signin/Page_Sign In/input_Password_logonPassword""), ""T358Gu+rjMQjqFMcWUMJuw=="")",Chrome 100.0.4896.127,,,2022-04-26 13:59:40,2022-04-26 13:59:40,0.516s,PASSED
+"click(findTestObject(""Object Repository/Test_Signin/Page_Sign In/input_Username_logonId""))",Chrome 100.0.4896.127,,,2022-04-26 13:59:40,2022-04-26 13:59:42,1.499s,PASSED
+"click(findTestObject(""Object Repository/Test_Signin/Page_Sign In/span_Sign In""))",Chrome 100.0.4896.127,,,2022-04-26 13:59:42,2022-04-26 13:59:47,5.290s,PASSED
+"click(findTestObject(""Object Repository/Test_Signin/Page_HVACR Technology and Infrastructure So_f4d782/a_My Account""))",Chrome 100.0.4896.127,,,2022-04-26 13:59:47,2022-04-26 13:59:59,12.249s,PASSED

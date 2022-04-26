@@ -1,0 +1,25 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Climate_Top_Navigation_Regression,Chrome 100.0.4896.127,,,2022-04-25 18:29:32,2022-04-25 18:31:20,1m - 47.443s,PASSED
+,,,,,,,
+Test Cases/04252022_Climate Blackbar Navigation,Chrome 100.0.4896.127,,,2022-04-25 18:29:49,2022-04-25 18:30:51,1m - 1.935s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-25 18:29:49,2022-04-25 18:29:52,2.731s,PASSED
+"navigateToUrl(""https://climate.emerson.com/en-us"")",Chrome 100.0.4896.127,,,2022-04-25 18:29:52,2022-04-25 18:29:59,7.069s,PASSED
+"click(findTestObject(""Object Repository/04252022_Climate_Blackbar_Navigation/Page_HVACR Technology and Infrastructure So_f4d782/button_Accept All Cookies""))",Chrome 100.0.4896.127,,,2022-04-25 18:29:59,2022-04-25 18:30:01,2.442s,PASSED
+"click(findTestObject(""Object Repository/04252022_Climate_Blackbar_Navigation/Page_HVACR Technology and Infrastructure So_f4d782/a_About Us""))",Chrome 100.0.4896.127,,,2022-04-25 18:30:01,2022-04-25 18:30:04,2.510s,PASSED
+"click(findTestObject(""Object Repository/04252022_Climate_Blackbar_Navigation/Page_HVACR Technology and Infrastructure So_f4d782/a_Investors""))",Chrome 100.0.4896.127,,,2022-04-25 18:30:04,2022-04-25 18:30:05,1.629s,PASSED
+"click(findTestObject(""Object Repository/04252022_Climate_Blackbar_Navigation/Page_HVACR Technology and Infrastructure So_f4d782/a_Careers""))",Chrome 100.0.4896.127,,,2022-04-25 18:30:05,2022-04-25 18:30:08,2.244s,PASSED
+"click(findTestObject(""Object Repository/04252022_Climate_Blackbar_Navigation/Page_HVACR Technology and Infrastructure So_f4d782/a_Contact Us""))",Chrome 100.0.4896.127,,,2022-04-25 18:30:08,2022-04-25 18:30:19,10.830s,PASSED
+"click(findTestObject(""Object Repository/04252022_Climate_Blackbar_Navigation/Page_HVACR Technology and Infrastructure So_f4d782/a_News  Events""))",Chrome 100.0.4896.127,,,2022-04-25 18:30:19,2022-04-25 18:30:37,17.959s,PASSED
+"click(findTestObject(""Object Repository/04252022_Climate_Blackbar_Navigation/Page_HVACR Technology and Infrastructure So_f4d782/a_Sign In""))",Chrome 100.0.4896.127,,,2022-04-25 18:30:37,2022-04-25 18:30:48,11.143s,PASSED
+"click(findTestObject(""Object Repository/04252022_Climate_Blackbar_Navigation/Page_HVACR Technology and Infrastructure So_f4d782/a_Emerson.com""))",Chrome 100.0.4896.127,,,2022-04-25 18:30:48,2022-04-25 18:30:50,2.401s,PASSED
+closeBrowser(),Chrome 100.0.4896.127,,,2022-04-25 18:30:50,2022-04-25 18:30:51,0.945s,PASSED
+,,,,,,,
+Test Cases/04252022_Climate Main Navigation,Chrome 100.0.4896.127,,,2022-04-25 18:30:51,2022-04-25 18:31:20,28.899s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-25 18:30:51,2022-04-25 18:30:54,2.084s,PASSED
+"navigateToUrl(""https://climate.emerson.com/en-us"")",Chrome 100.0.4896.127,,,2022-04-25 18:30:54,2022-04-25 18:30:59,5.744s,PASSED
+"click(findTestObject(""Object Repository/Climate Homepage Main Navigation/Page_HVACR Technology and Infrastructure So_f4d782/button_Accept All Cookies""))",Chrome 100.0.4896.127,,,2022-04-25 18:30:59,2022-04-25 18:31:01,2.159s,PASSED
+"click(findTestObject(""Object Repository/Climate Homepage Main Navigation/Page_HVACR Technology and Infrastructure So_f4d782/span_Products""))",Chrome 100.0.4896.127,,,2022-04-25 18:31:01,2022-04-25 18:31:06,4.467s,PASSED
+"click(findTestObject(""Object Repository/Climate Homepage Main Navigation/Page_Climate Technologies Product Portfolio_80ee61/span_Industries""))",Chrome 100.0.4896.127,,,2022-04-25 18:31:06,2022-04-25 18:31:10,4.131s,PASSED
+"click(findTestObject(""Object Repository/Climate Homepage Main Navigation/Page_HVAC and Refrigeration Industries  Emerson US/span_Training  Support""))",Chrome 100.0.4896.127,,,2022-04-25 18:31:10,2022-04-25 18:31:13,3.133s,PASSED
+"click(findTestObject(""Object Repository/Climate Homepage Main Navigation/Page_HVACR Industry Training  Support  Emerson US/span_Tools  Resources""))",Chrome 100.0.4896.127,,,2022-04-25 18:31:13,2022-04-25 18:31:16,3.047s,PASSED
+"click(findTestObject(""Object Repository/Climate Homepage Main Navigation/Page_HVACR Tools  Resources  Emerson US/span_Expertise""))",Chrome 100.0.4896.127,,,2022-04-25 18:31:16,2022-04-25 18:31:20,3.676s,PASSED

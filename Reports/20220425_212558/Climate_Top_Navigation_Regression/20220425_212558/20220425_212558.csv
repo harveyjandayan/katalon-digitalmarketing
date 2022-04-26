@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Climate_Top_Navigation_Regression,Chrome 100.0.4896.127,,,2022-04-25 21:26:11,2022-04-25 21:28:39,2m - 27.842s,FAILED
+,,,,,,,
+Test Cases/04252022_Climate Blackbar Navigation,Chrome 100.0.4896.127,,,2022-04-25 21:26:52,2022-04-25 21:27:04,12.007s,FAILED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-25 21:26:52,2022-04-25 21:26:55,2.762s,PASSED
+"navigateToUrl(""https://climate.emerson.com/en-us"")",Chrome 100.0.4896.127,,,2022-04-25 21:26:55,2022-04-25 21:27:00,5.352s,PASSED
+"click(findTestObject(""Object Repository/04252022_Climate_Blackbar_Navigation/Page_HVACR Technology and Infrastructure So_f4d782/button_Accept All Cookies""))",Chrome 100.0.4896.127,,,2022-04-25 21:27:00,2022-04-25 21:27:02,2.134s,PASSED
+"click(findTestObject(""Object Repository/04252022_Climate_Blackbar_Navigation/Page_HVACR Technology and Infrastructure So_f4d782/a_About Us""))",Chrome 100.0.4896.127,,,2022-04-25 21:27:02,2022-04-25 21:27:04,1.739s,FAILED
+,,,,,,,
+Test Cases/04252022_Climate Main Navigation,Chrome 100.0.4896.127,,,2022-04-25 21:28:25,2022-04-25 21:28:39,13.874s,FAILED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-25 21:28:25,2022-04-25 21:28:28,3.009s,PASSED
+"navigateToUrl(""https://climate.emerson.com/en-us"")",Chrome 100.0.4896.127,,,2022-04-25 21:28:28,2022-04-25 21:28:35,7.197s,PASSED
+"click(findTestObject(""Object Repository/04252022_Climate Homepage Main Navigation/Page_HVACR Technology and Infrastructure So_f4d782/button_Accept All Cookies""))",Chrome 100.0.4896.127,,,2022-04-25 21:28:35,2022-04-25 21:28:37,1.899s,PASSED
+"click(findTestObject(""Object Repository/04252022_Climate Homepage Main Navigation/Page_HVACR Technology and Infrastructure So_f4d782/span_Products""))",Chrome 100.0.4896.127,,,2022-04-25 21:28:37,2022-04-25 21:28:39,1.752s,FAILED

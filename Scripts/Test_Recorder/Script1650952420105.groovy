@@ -21,15 +21,17 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://climate.emerson.com/en-us')
 
-WebUI.click(findTestObject('Object Repository/04252022_Climate Homepage Main Navigation/Page_HVACR Technology and Infrastructure So_f4d782/button_Accept All Cookies'))
+WebUI.click(findTestObject('Object Repository/Test_Signin/Page_HVACR Technology and Infrastructure So_f4d782/button_Accept All Cookies'))
 
-WebUI.click(findTestObject('Object Repository/04252022_Climate Homepage Main Navigation/Page_HVACR Technology and Infrastructure So_f4d782/span_Products'))
+WebUI.click(findTestObject('Object Repository/Test_Signin/Page_HVACR Technology and Infrastructure So_f4d782/a_Sign In'))
 
-WebUI.click(findTestObject('Object Repository/04252022_Climate Homepage Main Navigation/Page_Climate Technologies Product Portfolio_80ee61/span_Industries'))
+WebUI.setText(findTestObject('Object Repository/Test_Signin/Page_Sign In/input_Username_logonId'), 'harvey.jandayan@emerson.com')
 
-WebUI.click(findTestObject('Object Repository/04252022_Climate Homepage Main Navigation/Page_HVAC and Refrigeration Industries  Emerson US/span_Training  Support'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Test_Signin/Page_Sign In/input_Password_logonPassword'), 'T358Gu+rjMQjqFMcWUMJuw==')
 
-WebUI.click(findTestObject('Object Repository/04252022_Climate Homepage Main Navigation/Page_HVACR Industry Training  Support  Emerson US/span_Tools  Resources'))
+WebUI.click(findTestObject('Object Repository/Test_Signin/Page_Sign In/input_Username_logonId'))
 
-WebUI.click(findTestObject('Object Repository/04252022_Climate Homepage Main Navigation/Page_HVACR Tools  Resources  Emerson US/span_Expertise'))
+WebUI.click(findTestObject('Object Repository/Test_Signin/Page_Sign In/span_Sign In'))
+
+WebUI.click(findTestObject('Object Repository/Test_Signin/Page_HVACR Technology and Infrastructure So_f4d782/a_My Account'))
 
