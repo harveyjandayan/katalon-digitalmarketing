@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+CLimate Signin,Chrome 100.0.4896.127,,,2022-04-27 17:20:57,2022-04-27 17:22:42,1m - 45.456s,FAILED
+,,,,,,,
+Test Cases/Navigate MyAccount,Chrome 100.0.4896.127,Navigate MyAccount,,2022-04-27 17:22:26,2022-04-27 17:22:42,16.538s,FAILED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-27 17:22:26,2022-04-27 17:22:30,4.288s,PASSED
+"navigateToUrl(""https://climate.emerson.com/en-us"")",Chrome 100.0.4896.127,,,2022-04-27 17:22:30,2022-04-27 17:22:42,12.213s,FAILED

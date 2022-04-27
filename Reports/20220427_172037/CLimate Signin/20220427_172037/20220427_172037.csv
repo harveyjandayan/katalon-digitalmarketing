@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+CLimate Signin,Chrome 100.0.4896.127,,,2022-04-27 17:20:57,2022-04-27 17:24:59,4m - 2.254s,FAILED
+,,,,,,,
+Test Cases/Navigate MyAccount,Chrome 100.0.4896.127,Navigate MyAccount,,2022-04-27 17:24:29,2022-04-27 17:24:59,29.923s,FAILED
+"openBrowser("""")",Chrome 100.0.4896.127,,,2022-04-27 17:24:29,2022-04-27 17:24:32,3.278s,PASSED
+"navigateToUrl(""https://climate.emerson.com/en-us"")",Chrome 100.0.4896.127,,,2022-04-27 17:24:32,2022-04-27 17:24:48,15.322s,PASSED
+"click(findTestObject(""Object Repository/Climate SignIn/Page_HVACR Technology and Infrastructure So_f4d782/a_Sign In""))",Chrome 100.0.4896.127,,,2022-04-27 17:24:48,2022-04-27 17:24:59,11.274s,FAILED

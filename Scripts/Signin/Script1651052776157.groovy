@@ -21,19 +21,17 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://climate.emerson.com/en-us')
 
-WebUI.click(findTestObject('Object Repository/Climate SignIn/Page_HVACR Technology and Infrastructure So_f4d782/a_Sign In'))
+WebUI.click(findTestObject('Object Repository/546_Signin/Page_HVACR Technology and Infrastructure So_f4d782/button_Accept All Cookies'))
 
-WebUI.click(findTestObject('Object Repository/Climate SignIn/Page_Sign In/button_Accept All Cookies'))
+WebUI.click(findTestObject('Object Repository/546_Signin/Page_HVACR Technology and Infrastructure So_f4d782/a_Sign In'))
 
-WebUI.setText(findTestObject('Object Repository/Climate SignIn/Page_Sign In/input_Username_logonId'), 'harvey.jandayan@emerson.com')
+WebUI.setText(findTestObject('Object Repository/546_Signin/Page_Sign In/input_Username_logonId'), 'harvey.jandayan@emerson.com')
 
-WebUI.click(findTestObject('Object Repository/Climate SignIn/Page_Sign In/div_Password'))
+WebUI.setEncryptedText(findTestObject('Object Repository/546_Signin/Page_Sign In/input_Password_logonPassword'), 'T358Gu+rjMQjqFMcWUMJuw==')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Climate SignIn/Page_Sign In/input_Password_logonPassword'), 'T358Gu+rjMQjqFMcWUMJuw==')
+WebUI.click(findTestObject('Object Repository/546_Signin/Page_Sign In/div_Sign In'))
 
-WebUI.click(findTestObject('Object Repository/Climate SignIn/Page_Sign In/span_Sign In'))
+WebUI.click(findTestObject('Object Repository/546_Signin/Page_HVACR Technology and Infrastructure So_f4d782/a_My Account'))
 
-WebUI.click(findTestObject('Object Repository/Climate SignIn/Page_HVACR Technology and Infrastructure So_f4d782/a_My Account'))
-
-WebUI.click(findTestObject('Object Repository/Climate SignIn/Page_My Account/a_Sign Out'))
+WebUI.click(findTestObject('Object Repository/546_Signin/Page_My Account/a_Sign Out'))
 

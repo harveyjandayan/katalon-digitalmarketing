@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Signin</description>
+   <name>Signin</name>
+   <tag>Signin</tag>
+   <comment></comment>
+   <testCaseGuid>fa2d7190-8db4-442c-9336-ae68d0e49783</testCaseGuid>
+</TestCaseEntity>
